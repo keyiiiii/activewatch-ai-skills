@@ -72,11 +72,11 @@ npm install -g @anthropic-ai/claude-code
 Claude Code のプラグインとしてインストールできます。
 
 ```bash
-# マーケットプレイスを追加
-/plugin marketplace add keyiiiii/activewatch-ai-skills
+# マーケットプレイスを追加（ターミナルから実行）
+claude plugin marketplace add keyiiiii/activewatch-ai-skills
 
 # プラグインをインストール
-/plugin install activewatch-ai-skills
+claude plugin install activewatch-ai-skills
 ```
 
 ## 使い方
