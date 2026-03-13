@@ -1,0 +1,14 @@
+{
+  "owner": {
+    "name": "keyiiiii"
+  },
+  "plugins": [
+    {
+      "name": "activewatch-ai-skills",
+      "description": "ActivityWatch のデータを AI で分析し、日報生成・生産性スコアリング・週次振り返りを行うスキル集",
+      "version": "1.0.0",
+      "source": "github",
+      "repo": "keyiiiii/activewatch-ai-skills"
+    }
+  ]
+}
